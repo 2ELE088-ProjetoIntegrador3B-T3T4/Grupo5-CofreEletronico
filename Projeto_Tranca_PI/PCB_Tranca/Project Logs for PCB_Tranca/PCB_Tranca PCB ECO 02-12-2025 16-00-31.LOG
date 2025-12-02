@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=INPUT-5V NewDesignator=J1
+Change Component Designator: OldDesignator=Output NewDesignator=J2
+Added Component: Designator=*(ML2RC-5V)
+Added Member To Class: ClassName=Sheet1 Member=Component * ML2RC-5V
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
