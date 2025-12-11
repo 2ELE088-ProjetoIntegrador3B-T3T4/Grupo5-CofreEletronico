@@ -1,0 +1,152 @@
+Removed Pin From Net: NetName=+5 Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=+5 Pin=U2-1
+Removed Member From Class: ClassName=Sheet1 Member=*
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U1
+Add component: Footprint Not Found CAPPRD250W45D630H700
+Add component: Footprint Not Found CAPPRD250W45D630H700
+Added Component: Designator=R1(R_PTH)
+Added Component: Designator=R2(R_PTH)
+Added Component: Designator=REGULADOR 1(TS7805CZ-TO220)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Voltage Regulators - Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-136036604.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-136036604.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-73860655.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-73860655.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-14717135.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-14717135.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-108470.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-108470.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-25360458.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-25360458.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-62333080.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-62333080.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-5316848.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-5316848.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-11003276.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-11003276.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-12510217.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-12510217.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10835933.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10835933.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10550045.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10550045.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10406743.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10406743.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10082731.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-10082731.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-180738849.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-180738849.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-62333152.pdf?src-supplier=STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-62333152.pdf?src-supplier=STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/L7805C-V-STMicroelectronics-datasheet-8494008.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/L7805C-V-STMicroelectronics-datasheet-8494008.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-8464528.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-8464528.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-109553.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-109553.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-5578.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-5578.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-61038.pdf?src-supplier=SOS+electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-61038.pdf?src-supplier=SOS+electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-14169698.pdf?src-supplier=iiiC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-14169698.pdf?src-supplier=iiiC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-11554490.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-11554490.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-9642343.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-9642343.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-7264666.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-7264666.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink25Description"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-154404753.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink25URL"; Value = "https://datasheet.octopart.com:443/L7805CV-STMicroelectronics-datasheet-154404753.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "19.68mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "4.65V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "62dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,41797, 2=0,2691, 4=0,26772, 8=0,26634, 16=0,16896 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8542390000, 8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000, 8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000, 8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000|8542390000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "15085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "L7805CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "2.299997g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-N
+Add Pin To Net: Unknown Pin: Pin C2-N
+Add Pin To Net: Unknown Pin: Pin C2-P
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=REGULADOR 1-2
+Added Pin To Net: NetName=+5 Pin=REGULADOR 1-3
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetU1_22 New Net Name=NetU2_22
+Change Net Name : Old Net Name=NetU1_25 New Net Name=NetU2_25
+Change Net Name : Old Net Name=NetU1_26 New Net Name=NetU2_26
+Change Net Name : Old Net Name=NetU1_27 New Net Name=NetU2_27
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U4-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U2-43
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-4
+Added Pin To Net: NetName=NetR2_2 Pin=U2-42
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=Vin Pin=J1-2
+Added Pin To Net: NetName=Vin Pin=REGULADOR 1-1
+Added Net: Name=Vin
+Add Class Member: Failed to add class member : Component C1 0.33uF
+Add Class Member: Failed to add class member : Component C2 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet1 Member=Component REGULADOR 1 TS7805CZ
+Added Rule: Name=Schematic Supply Nets_2
